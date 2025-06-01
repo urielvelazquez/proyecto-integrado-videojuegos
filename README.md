@@ -44,6 +44,8 @@ Este proyecto ha permitido construir una base sólida de análisis a partir de d
 Los hallazgos obtenidos no solo mejoran el rendimiento a corto plazo, sino que también aportan valor estratégico a largo plazo en un sector altamente competitivo y rentable como el de los videojuegos.
 
 #### Diccionario de Datos – Ice Store
+El dataset incluye los siguientes datos:
+
 - Name - Nombre del videojuego.
 - Platform - Plataforma en la que fue lanzado el juego (ej. PS4, Xbox One, PC, etc.).
 - Year_of_Release - Año de lanzamiento del videojuego.
