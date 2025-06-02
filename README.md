@@ -46,16 +46,16 @@ Los hallazgos obtenidos no solo mejoran el rendimiento a corto plazo, sino que t
 #### Diccionario de Datos – Ice Store
 El dataset incluye los siguientes datos:
 
-- Name - Nombre del videojuego.
-- Platform - Plataforma en la que fue lanzado el juego (ej. PS4, Xbox One, PC, etc.).
-- Year_of_Release - Año de lanzamiento del videojuego.
-- Genre	- Género del videojuego (Acción, Aventura, Deportes, etc.).
-- NA_sales -	Ventas en Norteamérica (millones de dólares estadounidenses).
-- EU_sales - Ventas en Europa (millones de dólares estadounidenses).
-- JP_sales - Ventas en Japón (millones de dólares estadounidenses).
-- Other_sales - Ventas en otras regiones fuera de NA, EU y JP (millones de dólares).
-- Critic_Score - Calificación promedio de la crítica (escala de 0 a 100).
-- User_Score - Calificación promedio de los usuarios (escala de 0 a 10).
-- Rating - Clasificación de contenido ESRB (Everyone, Teen, Mature, etc.).
+- `Name` - Nombre del videojuego.
+- `Platform` - Plataforma en la que fue lanzado el juego (ej. PS4, Xbox One, PC, etc.).
+- `Year_of_Release` - Año de lanzamiento del videojuego.
+- `Genre`	- Género del videojuego (Acción, Aventura, Deportes, etc.).
+- `NA_sales` -	Ventas en Norteamérica (millones de dólares estadounidenses).
+- `EU_sales` - Ventas en Europa (millones de dólares estadounidenses).
+- `JP_sales` - Ventas en Japón (millones de dólares estadounidenses).
+- `Other_sales` - Ventas en otras regiones fuera de NA, EU y JP (millones de dólares).
+- `Critic_Score` - Calificación promedio de la crítica (escala de 0 a 100).
+- `User_Score` - Calificación promedio de los usuarios (escala de 0 a 10).
+- `Rating` - Clasificación de contenido ESRB (Everyone, Teen, Mature, etc.).
 
 **Nota:** Es posible que los datos de 2016 estén incompletos.
